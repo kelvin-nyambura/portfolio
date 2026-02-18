@@ -1,4 +1,4 @@
-function scrollToProjects() {
-  document.getElementById("projects")
+function scrollToWork() {
+  document.getElementById("work")
     .scrollIntoView({ behavior: "smooth" });
 }
